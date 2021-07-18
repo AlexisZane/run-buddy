@@ -12,3 +12,5 @@ https://AlexisZane.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Alexis Zane
+
+# Run Buddy Inc.
